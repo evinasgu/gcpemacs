@@ -1,7 +1,7 @@
 (source gnu)
 (source melpa)
 
-(package-file "lisp/gcpemacs-serverless.el")
+(package-file "gcpemacs-serverless.el")
 
 (development
  (depends-on "package-lint")
